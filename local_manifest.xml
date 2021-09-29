@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Trees -->
-  <project path=""device/asus/Z01R" name="RishikRastogi/android_device_asus_Z01R.git" remote="github" revision="Cherish" />
+  <project path="device/asus/Z01R" name="RishikRastogi/android_device_asus_Z01R.git" remote="github" revision="Cherish" />
   <project path="vendor/asus" name="RishikRastogi/proprietary_vendor_asus.git" remote="github" revision="lineage-18.1" />
   <project path="kernel/asus/sdm845" name="RishikRastogi/kernel_z01r.git" remote="github" revision="eleven" />
 
