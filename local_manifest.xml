@@ -7,4 +7,5 @@
     	<project path="device/asus/Z01R" name="android_device_asus_Z01R" remote="rishi" revision="Cherish" />
     	<project path="vendor/asus" name="proprietary_vendor_asus" remote="rishi" revision="lineage-18.1" />
     	<project path="kernel/asus/sdm845" name="kernel_z01r" remote="kailash" revision="eleven" />
+        <remove-project name="device/generic/opengl-transport" />
 </manifest>
