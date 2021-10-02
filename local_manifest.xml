@@ -2,7 +2,7 @@
 <manifest>
 	<remote name="tree" fetch="https://github.com/AruAA" />
         <remote name="rishi" fetch="https://github.com/RishikRastogi" />
-	<remote name="kernel" fetch="https://github.com/ayanm09" />
+	<remote name="kernel" fetch="https://github.com/kailashrs" />
 
     	<project path="device/asus/Z01R" name="android_device_asus_Z01R-2" remote="tree" revision="bliss" />
     	<project path="vendor/asus" name="proprietary_vendor_asus" remote="rishi" revision="lineage-18.1" />
