@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<remote name="rishi" fetch="https://github.com/AruAA" />
-<remote name="rishi" fetch="https://github.com/RishikRastogi" />
+        <remote name="rishi" fetch="https://github.com/RishikRastogi" />
 	<remote name="kernel" fetch="https://github.com/ayanm09" />
 
     	<project path="device/asus/Z01R" name="android_device_asus_Z01R-2" remote="rishi" revision="bliss" />
