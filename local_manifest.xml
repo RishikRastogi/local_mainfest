@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="aryan" fetch="https://github.com/AruAA" />
-        <remote name="rishi" fetch="https://github.com/RishikRastogi" />
+	<remote name="tree" fetch="https://github.com/AruAA" />
+        <remote name="vendor" fetch="https://github.com/RishikRastogi" />
+        <remote name="kernel" fetch="https://github.com/ayanm09" />
 
-    	<project path="device/asus/Z01R" name="android_device_asus_Z01R-2" remote="aryan" revision="bliss" />
-    	<project path="vendor/asus" name="proprietary_vendor_asus-1" remote="aryan" revision="lineage-18.1" />
-    	<project path="kernel/asus/sdm845" name="kernel_z01r" remote="aryan" revision="eleven" />
+    	<project path="device/asus/Z01R" name="android_device_asus_Z01R-2" remote="tree" revision="bliss" />
+    	<project path="vendor/asus" name="proprietary_vendor_asus" remote="vendor" revision="lineage-18.1" />
+    	<project path="kernel/asus/sdm845" name="kernel_z01r" remote="kernel" revision="eleven" />
 </manifest>
