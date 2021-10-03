@@ -4,6 +4,6 @@
         <remote name="rishi" fetch="https://github.com/RishikRastogi" />
 
     	<project path="device/asus/Z01R" name="android_device_asus_Z01R-2" remote="aryan" revision="bliss" />
-    	<project path="vendor/asus" name="proprietary_vendor_asus" remote="rishi" revision="lineage-18.1" />
+    	<project path="vendor/asus" name="proprietary_vendor_asus-1" remote="aryan" revision="lineage-18.1" />
     	<project path="kernel/asus/sdm845" name="kernel_z01r" remote="aryan" revision="eleven" />
 </manifest>
