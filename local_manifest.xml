@@ -3,7 +3,7 @@
 	<remote name="rishi" fetch="https://github.com/RishikRastogi" />
 
 
-    	<project path="device/asus/Z01R" name="device_asus_Z01R" remote="rishi" revision="Cherish-test" />
+    	<project path="device/asus/Z01R" name="device_asus_Z01R" remote="rishi" revision="Dot-OS" />
     	<project path="vendor/asus" name="proprietary_vendor_asus" remote="rishi" revision="lineage-18.1" />
     	<project path="kernel/asus/sdm845" name="kernel_z01r" remote="rishi" revision="eleven" />
 </manifest>
