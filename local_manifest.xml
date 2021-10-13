@@ -7,14 +7,6 @@
     	<project path="vendor/asus" name="proprietary_vendor_asus-1" remote="rishi" revision="lineage-18.1" />
     	<project path="kernel/asus/sdm845" name="kernel_z01r" remote="rishi" revision="eleven" />
 
-        <!-- Remove Projects -->
-        <remove-project name="platform/hardware/qcom/bootctrl" />
-        <!--remove-project name="platform/hardware/qcom/media" />
-        <remove-project name="platform/hardware/qcom/display" /-->
-        <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
-        <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
-        <!--remove-project name="android_device_qcom_common" /-->
-
         <!-- Toolchain -->
         <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9" remote="los" revision="lineage-18.1" />
 	<project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" remote="los" revision="lineage-18.1" />
